@@ -1,4 +1,5 @@
-# ATM-TRANSACTION-#include <stdio.h>
+# ATM-TRANSACTION-
+#include <stdio.h>
 long amount=1000, deposit, withdraw;
 int choice, pin, k;
 char transaction ='y';
